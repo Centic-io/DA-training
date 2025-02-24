@@ -1,0 +1,1 @@
+python-cli-scheduler==1.1.1
