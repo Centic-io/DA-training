@@ -1,7 +1,7 @@
 # Capstone Task
 
 ## Overview
-Design an ETL (Extract, Transform, Load) process that has 4 phrases in every predefined time t (for example 10 minutes). Starting crawl data from [Books to Scrape](https://books.toscrape.com/), process the data, and update it into MongoDB and PostgreSQL based on the following conditions:
+Design an ETL (Extract, Transform, Load) process that has 4 phrases in every predefined time t (for example 10 minutes). Starting crawl data from [Books to Scrape](https://books.toscrape.com/), process the data in parallel, and update it into MongoDB and PostgreSQL based on the following conditions:
 
 ### Data Crawling Conditions
 - **First Phrase:**
